@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pre/static/css/main.c7d1eb31.css",
+    "main.js": "/react-pre/static/js/main.27733c7e.js",
+    "index.html": "/react-pre/index.html",
+    "main.c7d1eb31.css.map": "/react-pre/static/css/main.c7d1eb31.css.map",
+    "main.27733c7e.js.map": "/react-pre/static/js/main.27733c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d1eb31.css",
+    "static/js/main.27733c7e.js"
+  ]
+}
